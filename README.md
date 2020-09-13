@@ -1,6 +1,6 @@
 ---
 name: flutter
-title: Flutter
+title: Flutter_workshop
 subtitle: Learn to make beautiful, native apps for Android & iOS
 description: Flutter is a cross-platform, mobile development framework created by Google. With user-centric design in mind, Flutter allows developers to create beautiful native apps on iOS and Android from a single codebase.
 speaker: Anustup Mukherjee & Jaya Prakash Reddy
